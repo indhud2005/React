@@ -1,0 +1,24 @@
+# PG Owner Dashboard UI
+
+A responsive web dashboard for PG owners to manage properties and bookings.
+
+## ? Features
+
+- Dashboard overview with key stats
+- Add new PG property form
+- View and manage booking requests
+- Feedback overview table
+- Dark mode toggle
+- Fully responsive layout
+
+## ?? Screenshots
+
+Include screenshots of the Dashboard, Add Property, and Booking views.
+
+## ?? Getting Started
+
+```bash
+git clone https://github.com/your-username/pg-owner-dashboard-ui.git
+cd pg-owner-dashboard-ui
+npm install
+npm run dev
